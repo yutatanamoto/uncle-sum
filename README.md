@@ -1,2 +1,2 @@
-# uncle-summ
+# uncle-sum
 色々サマってくれるおじさん
