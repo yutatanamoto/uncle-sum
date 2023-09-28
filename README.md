@@ -1,2 +1,3 @@
 # uncle-sum
-色々サマってくれるおじさん
+色々サマってくれる優しいおじさん（BOT）
+![image](https://github.com/yutatanamoto/uncle-sum/assets/52131325/af6fce72-8cb7-4f3f-9de2-51da73533605)
